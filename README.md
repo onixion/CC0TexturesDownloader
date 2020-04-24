@@ -1,7 +1,6 @@
 # CC0TexturesDownloader
-This console tool downloads texture assets from cc0textures.com.
-Please support cc0textures.com and consided becoming a patreon.
-Without cc0textures.com, there wouldn't be those great textures.
+This console tool downloads texture assets from [CC0 Textures](https://cc0textures.com).
+Please support [CC0 Textures](https://cc0textures.com) and consided becoming one of their [patreons](https://www.patreon.com/cc0textures)!
 
 # How the tool works:
 
