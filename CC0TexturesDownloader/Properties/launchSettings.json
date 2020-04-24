@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CC0TexturesDownloader": {
+      "commandName": "Project",
+      "commandLineArgs": "--assets=TestFiles\\Assets.txt --downloads=4k-jpg"
+    }
+  }
+}

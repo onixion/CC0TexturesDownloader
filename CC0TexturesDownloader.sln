@@ -3,18 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CC0TexturesDownloader", "CC0TexturesDownloader\CC0TexturesDownloader.csproj", "{CF69F5CB-177D-41A3-BD4F-76887AA2417B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CC0TexturesDownloader", "CC0TexturesDownloader\CC0TexturesDownloader.csproj", "{CF69F5CB-177D-41A3-BD4F-76887AA2417B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+		TestFiles (Debug)|Any CPU = TestFiles (Debug)|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{CF69F5CB-177D-41A3-BD4F-76887AA2417B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CF69F5CB-177D-41A3-BD4F-76887AA2417B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF69F5CB-177D-41A3-BD4F-76887AA2417B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF69F5CB-177D-41A3-BD4F-76887AA2417B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF69F5CB-177D-41A3-BD4F-76887AA2417B}.TestFiles (Debug)|Any CPU.ActiveCfg = TestFiles (Debug)|Any CPU
+		{CF69F5CB-177D-41A3-BD4F-76887AA2417B}.TestFiles (Debug)|Any CPU.Build.0 = TestFiles (Debug)|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
